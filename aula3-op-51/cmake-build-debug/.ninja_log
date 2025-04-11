@@ -1,0 +1,5 @@
+# ninja log v6
+0	24	1744334287594632845	CMakeFiles/aula3_op_51.dir/main.c.o	b0cd34875b2115a4
+1	25	1744334287597125939	CMakeFiles/aula3_op_51.dir/0-definicoes/definicoes.c.o	3d67d5ce9227209a
+1	31	1744334287595632877	CMakeFiles/aula3_op_51.dir/1-rotacoes-avl/1-rotacoies-avl.c.o	3a36e41f5eb170b9
+31	52	1744334287625633813	aula3_op_51	2b139dd119448dac

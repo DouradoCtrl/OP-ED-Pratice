@@ -1,0 +1,6 @@
+# ninja log v6
+1	17	1744335908817728058	build.ninja	7ee7c2433495e59e
+1	26	1744335908824128981	CMakeFiles/estrutura_de_dados_aula_9.dir/main.c.o	ecf383eb73ca624d
+1	30	1744335908825399444	CMakeFiles/estrutura_de_dados_aula_9.dir/01_grafo/grafo.c.o	c89cf32b1b6995e5
+1	38	1744335908825096041	CMakeFiles/estrutura_de_dados_aula_9.dir/02_busca_dfs/busca-profundidade.c.o	32405d4b35ca7669
+38	58	1744335908860948993	estrutura_de_dados_aula_9	6c44c4e8e3f7c64b

@@ -1,0 +1,6 @@
+# ninja log v6
+0	18	1744335798484890057	build.ninja	7fcf1532e9a60101
+1	32	1744335683675932860	CMakeFiles/estrutura_de_dados_aula_6.dir/02_fila_lista_dinamica/02_fila_lista_dinamica.c.o	be0a37b6a68e01b5
+0	25	1744335683674729657	CMakeFiles/estrutura_de_dados_aula_6.dir/main.c.o	fbcb29364eb73eec
+0	29	1744335683674998067	CMakeFiles/estrutura_de_dados_aula_6.dir/01_pilha_lista_dinamica/01_pilha_lista_dinamica.c.o	139f5b5533dc87f4
+32	52	1744335683705998887	estrutura_de_dados_aula_6	5b0861a913bb5896

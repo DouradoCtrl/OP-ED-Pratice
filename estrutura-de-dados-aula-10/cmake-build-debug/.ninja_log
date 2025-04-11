@@ -1,0 +1,6 @@
+# ninja log v6
+0	16	1744335971719699472	build.ninja	cde58ef4171b94db
+0	26	1744335971724610274	CMakeFiles/estrutura_de_dados_aula_10.dir/main.c.o	36f7a7be708ccc20
+0	29	1744335971726332836	CMakeFiles/estrutura_de_dados_aula_10.dir/01_busca_largura/bfs.c.o	f5afb8949afa5044
+1	36	1744335971726694977	CMakeFiles/estrutura_de_dados_aula_10.dir/02_dijkstra/dijkstra.c.o	e094451e12432475
+36	57	1744335971760611225	estrutura_de_dados_aula_10	328a9c2c2ad6b2c8

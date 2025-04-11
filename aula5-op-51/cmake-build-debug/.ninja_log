@@ -1,0 +1,6 @@
+# ninja log v6
+0	25	1744334496286096898	CMakeFiles/aula5_op_51.dir/main.c.o	5ad1c02237c39799
+0	29	1744334496287374414	CMakeFiles/aula5_op_51.dir/01-exemplo1/shellsort.c.o	f4e537bcd74e301a
+1	29	1744334496288249978	CMakeFiles/aula5_op_51.dir/03-barras/barras.c.o	760857e0dfdb0c95
+1	30	1744334496287987364	CMakeFiles/aula5_op_51.dir/02-exemplo2/shell-insertionsort.c.o	d40ebc1ace98593a
+30	50	1744334496316097670	aula5_op_51	e591d852f131ed47

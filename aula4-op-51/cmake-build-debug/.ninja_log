@@ -1,0 +1,7 @@
+# ninja log v6
+0	27	1744334440582406468	CMakeFiles/aula4_op_51.dir/main.c.o	3bc91584952d012f
+1	29	1744334440583978525	CMakeFiles/aula4_op_51.dir/02-selectionsort/selectionsort.c.o	12bbcaa8ab0936c2
+1	29	1744334440584270334	CMakeFiles/aula4_op_51.dir/03-insertsort/insertionsort.c.o	e6bf703ac79c2f74
+1	29	1744334440583406500	CMakeFiles/aula4_op_51.dir/01-bubblesort/bubblesort.c.o	1d973f8e681ff178
+2	31	1744334440584406531	CMakeFiles/aula4_op_51.dir/04-CocktailShakerSort/shakersort.c.o	703a3b5b03fae64c
+31	52	1744334440613407436	aula4_op_51	4ad016bfbbe656e7

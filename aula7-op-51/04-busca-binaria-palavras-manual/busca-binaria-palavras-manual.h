@@ -1,0 +1,5 @@
+
+#ifndef BUSCA_BINARIA_PALAVRAS_MANUAL_H
+#define BUSCA_BINARIA_PALAVRAS_MANUAL_H
+int busca_binaria_palavras_manual();
+#endif //BUSCA_BINARIA_PALAVRAS_MANUAL_H

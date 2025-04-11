@@ -1,0 +1,10 @@
+# ninja log v6
+24	44	1744334035857851899	aula2_op_51	57d96684daebc45f
+1	29	1744334017066482523	CMakeFiles/aula2_op_51.dir/ex3/ex3.c.o	53a524d6a622819e
+0	24	1744334035833851280	CMakeFiles/aula2_op_51.dir/main.c.o	f45e0c873ce99f31
+2	26	1744334017067057129	CMakeFiles/aula2_op_51.dir/ex4/ex4.c.o	d50da341c425feec
+1	27	1744334017065367184	CMakeFiles/aula2_op_51.dir/ex1/ex1.c.o	b68e92f3ab5721c
+0	19	1744334197366229375	build.ninja	1ef34ffb83accdcf
+2	29	1744334017066755054	CMakeFiles/aula2_op_51.dir/definicaoArvore/estrutura_arvore.c.o	d14823ce03241c21
+1	29	1744334017066215858	CMakeFiles/aula2_op_51.dir/ex2/ex2.c.o	d99a7061e125c01c
+2	32	1744334017067396291	CMakeFiles/aula2_op_51.dir/ex5/ex5.c.o	bc72e90cd7ae42ee

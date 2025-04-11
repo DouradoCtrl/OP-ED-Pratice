@@ -1,0 +1,9 @@
+# ninja log v6
+0	18	1744335803991387091	build.ninja	352cfb49bfd46770
+2	29	1744335786998399819	CMakeFiles/estrutura_de_dados_aula_8.dir/05_grafo/matriz-grafo.c.o	29d66b41abb8e07a
+35	55	1744335787029729394	estrutura_de_dados_aula_8	1fdd62c5bd6d52fd
+1	32	1744335786997601921	CMakeFiles/estrutura_de_dados_aula_8.dir/03_matriz_adj_nao_direcionado/matriz_adj_nao_direcionado.c.o	80bbe45abb6a8149
+2	33	1744335786997968742	CMakeFiles/estrutura_de_dados_aula_8.dir/04_matriz_adj_direcionado/matriz_adj_direcionado.c.o	30f289bef6e09ff7
+1	34	1744335786996312531	CMakeFiles/estrutura_de_dados_aula_8.dir/main.c.o	ef268edefa3b8e63
+3	35	1744335786998747572	CMakeFiles/estrutura_de_dados_aula_8.dir/02_lista_adjacencia/lista-adjacencia.c.o	993fee4a1336a408
+1	35	1744335786997280848	CMakeFiles/estrutura_de_dados_aula_8.dir/01_matriz_adjacencia/matriz-adjacencia.c.o	9be1529be5bf1618

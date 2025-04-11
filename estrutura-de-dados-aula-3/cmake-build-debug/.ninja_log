@@ -1,0 +1,11 @@
+# ninja log v6
+1	20	1744335397221651233	build.ninja	5d9c0b7e54075592
+1	34	1744335316725466224	CMakeFiles/estrutura_de_dados_aula_3.dir/alocacao_dinamica_vetor/ex4_notas.c.o	428fb9b730c9e117
+0	25	1744335316723928120	CMakeFiles/estrutura_de_dados_aula_3.dir/main.c.o	df491d8f10029cc7
+1	28	1744335316724997710	CMakeFiles/estrutura_de_dados_aula_3.dir/alocacao_dinamica/ex2_calloc.c.o	c112477eb97e27e3
+2	31	1744335316725721923	CMakeFiles/estrutura_de_dados_aula_3.dir/alocacao_dinamica_vetor/ex5_matriz.c.o	75b34b4e8b7e8b32
+1	34	1744335316725242444	CMakeFiles/estrutura_de_dados_aula_3.dir/alocacao_dinamica/ex3_realloc.c.o	1f23b6813734de7
+2	31	1744335316726050469	CMakeFiles/estrutura_de_dados_aula_3.dir/alocacao_dinamica_vetor/ex6_registro.c.o	255cd93e3669c46b
+36	57	1744335316759350475	estrutura_de_dados_aula_3	c783a9f6873bcc6b
+1	34	1744335316724349558	CMakeFiles/estrutura_de_dados_aula_3.dir/alocacao_dinamica/ex1_malloc.c.o	81e55fe839c4fd69
+2	36	1744335316726326422	CMakeFiles/estrutura_de_dados_aula_3.dir/alocacao_dinamica_vetor/ex7_comparacao_memoria.c.o	1a04a50c0af35677

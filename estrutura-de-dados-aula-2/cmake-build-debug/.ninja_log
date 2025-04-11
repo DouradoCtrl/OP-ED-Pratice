@@ -1,0 +1,9 @@
+# ninja log v6
+0	18	1744335175597185131	build.ninja	42a3a1d6971a5bed
+2	23	1744335175605681023	CMakeFiles/estrutura_de_dados_aula_2.dir/acesso_memoria.c.o	b7a6d0b99f2b5cb8
+1	23	1744335175604127484	CMakeFiles/estrutura_de_dados_aula_2.dir/main.c.o	d17b584d881e00a6
+1	23	1744335175605020579	CMakeFiles/estrutura_de_dados_aula_2.dir/incremento_decremento.c.o	96717af54a6754d2
+1	23	1744335175605370986	CMakeFiles/estrutura_de_dados_aula_2.dir/aritimetica.c.o	43d7c3647735b659
+2	23	1744335175605991340	CMakeFiles/estrutura_de_dados_aula_2.dir/comparacao_ponteiro.c.o	58506872d304a0f8
+2	25	1744335175606270576	CMakeFiles/estrutura_de_dados_aula_2.dir/ponteiro.c.o	64eedb31923ebf9d
+25	45	1744335175627653034	estrutura_de_dados_aula_2	8c4ec5268d3ec0a4

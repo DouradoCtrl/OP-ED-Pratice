@@ -1,0 +1,8 @@
+# ninja log v6
+1	29	1744334796561939786	CMakeFiles/aula7_op_51.dir/01-busca-sequencial/busca-sequencial.c.o	e41d2657a56f4d13
+1	29	1744334796562192202	CMakeFiles/aula7_op_51.dir/02-busca-indexada/busca-indexada.c.o	60949476040a44b6
+1	31	1744334796562447411	CMakeFiles/aula7_op_51.dir/03-busca-binaria/busca-binaria.c.o	2d812c5cd3aa19bd
+0	32	1744334796560822562	CMakeFiles/aula7_op_51.dir/main.c.o	9d57771905cd3ef
+2	33	1744334796563169947	CMakeFiles/aula7_op_51.dir/05-busca-binaria-palavras-funcoes/busca-binaria-palavras-funcoes.c.o	52b79bfbf5f2f9ae
+2	35	1744334796562789158	CMakeFiles/aula7_op_51.dir/04-busca-binaria-palavras-manual/busca-binaria-palavras-manual.c.o	2b69f580cae09c93
+35	56	1744334796594823436	aula7_op_51	ff08b4addba382b0
